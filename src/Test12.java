@@ -24,13 +24,11 @@ public class Test12 {
             list.add(s);
         }
 
-if (first.equals(list.get(0))){
-    System.out.println("Yes");
-
-} else {
-    System.out.println("no");
-
-}
+                        if (first.equals(list.get(0))){
+            System.out.println("Yes");
+               } else {
+            System.out.println("No");
+                }
 
 
 
